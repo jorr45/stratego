@@ -1,0 +1,124 @@
+{ 
+blueB: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "B"
+  },
+blue9: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "9"
+  },
+
+blue8: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "8"
+  },
+
+blue7: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "7"
+  },
+
+blue6: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "6"
+  },
+blue61: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "6"
+  },
+
+blue5: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "5"
+  },
+
+blue4: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "4"
+  },
+blue3: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "3"
+  },
+blue2: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "2"
+  },
+blue1: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25
+      value: "1"
+  },
+blueF: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "F"
+  },
+blueS: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "S"
+  }
+}

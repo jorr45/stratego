@@ -1,0 +1,361 @@
+{ blueB1: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "B"
+  },
+  blueB2: {
+      tilew: 25,
+      tileh: 25,
+      sx: 25,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "B"
+  },
+blueB3: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "B"
+  },
+blueB4: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "B"
+  },
+blueB5: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "B"
+  },
+blueB0: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "B"
+  },
+blue90: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "9"
+  },
+blue91: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "9"
+  },
+blue92: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "9"
+  },
+blue93: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "9"
+  },
+blue94: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "9"
+  },
+blue95: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "9"
+  },
+blue96: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "9"
+  },
+blue97: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "9"
+  },
+blue80: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "8"
+  },
+blue81: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "8"
+  },
+blue82: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "8"
+  },
+blue83: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "8"
+  },
+blue84: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "8"
+  },
+blue70: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "7"
+  },
+blue71: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "7"
+  },
+blue72: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "7"
+  },
+blue73: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "7"
+  },
+blue60: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "6"
+  },
+blue61: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "6"
+  },
+blue62: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "6"
+  },
+blue63: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "6"
+  },
+blue50: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "5"
+  },
+blue51: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "5"
+  },
+blue52: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "5"
+  },
+blue53: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "5"
+  },
+blue40: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "4"
+  },
+blue41: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "4"
+  },
+blue42: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "4"
+  },
+blue30: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "3"
+  },
+blue31: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "3"
+  },
+blue20: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "2"
+  },
+blue10: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25
+      value: "1"
+  },
+blueF0: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "F"
+  },
+blueS0: {
+      tilew: 25,
+      tileh: 25,
+      sx: 0,
+      sy: 0,
+      w: 25,
+      h: 25,
+      value: "S"
+  }
+}

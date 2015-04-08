@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="tile" tilewidth="32" tileheight="32" margin="2">
+  <image source="tile.gif" width="300" height="262"/>
+ </tileset>
+ <tileset firstgid="73" name="tile" tilewidth="32" tileheight="32" spacing="4" margin="4">
+  <image source="tile.gif" width="300" height="262"/>
+ </tileset>
+ <tileset firstgid="129" name="Classic_board" tilewidth="296" tileheight="296" spacing="4" margin="4">
+  <image source="Classic_board.jpg" width="300" height="300"/>
+  <terraintypes>
+   <terrain name="New Terrain" tile="-1"/>
+   <terrain name="New Terrain2" tile="-1"/>
+  </terraintypes>
+  <tile id="0" terrain="0,0,0,0"/>
+ </tileset>
+ <tileset firstgid="130" name="Classic_board" tilewidth="32" tileheight="32" spacing="4" margin="4">
+  <image source="Classic_board.jpg" width="300" height="300"/>
+ </tileset>
+ <tileset firstgid="194" name="Classic_board" tilewidth="30" tileheight="30">
+  <image source="Classic_board.jpg" width="300" height="300"/>
+ </tileset>
+ <tileset firstgid="294" name="Classic_board" tilewidth="32" tileheight="32" margin="2">
+  <image source="Classic_board.jpg" width="300" height="300"/>
+ </tileset>
+ <tileset firstgid="375" name="Classic_board" tilewidth="27" tileheight="27" margin="2">
+  <image source="Classic_board.jpg" width="300" height="300"/>
+ </tileset>
+ <tileset firstgid="496" name="Classic_board" tilewidth="28" tileheight="28" margin="2">
+  <image source="Classic_board.jpg" width="300" height="300"/>
+ </tileset>
+ <tileset firstgid="596" name="Classic_board" tilewidth="29" tileheight="29" margin="2">
+  <image source="Classic_board.jpg" width="300" height="300"/>
+ </tileset>
+ <tileset firstgid="696" name="Classic_board" tilewidth="29" tileheight="29" margin="3">
+  <image source="Classic_board.jpg" width="300" height="300"/>
+ </tileset>
+ <tileset firstgid="796" name="Classic_board" tilewidth="32" tileheight="32">
+  <image source="Classic_board.jpg" width="300" height="300"/>
+ </tileset>
+ <tileset firstgid="877" name="Classic_board" tilewidth="29" tileheight="29">
+  <image source="Classic_board.jpg" width="300" height="300"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJwNw4c2AlAAANCnIiuyR///D4Sys4VsmdmyC1nde84diYQwatoxx50wY9ZJp5x2xlnnnDfngosuueyKq665bt4NN92y4LY77rrnvgceemTRY0889cxzLyx56ZXX3njrnfc+WPbRJ5998dU3361Y9cNPv6z57Y+//vlviIbQYMSoMRttMm6zLbbaZrsJO+w0aZfd9thrn/0OOOiQw6asAzMPQBs=
+  </data>
+ </layer>
+</map>
